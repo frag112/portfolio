@@ -43,6 +43,7 @@
   }
 }
 
+
 * {
   box-sizing: border-box;
   scrollbar-color: transparent transparent; /* thumb and track color */
@@ -62,11 +63,8 @@
   border: none;
 }
 
-* {
-  -ms-overflow-style: none;
-}
 
-ol,
+
 li {
   list-style: none;
   margin: 0;
